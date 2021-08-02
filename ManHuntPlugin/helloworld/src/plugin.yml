@@ -1,0 +1,15 @@
+name: helloworld
+version: 1.0
+author: CrispyEternal
+main: me.BlockyCraft56.helloworld.Main
+
+commands:
+  Hunter:
+    description: Use this to become the Hunter.
+    usage: /hunter
+  SpeedRunner:
+    description: Use this to become the SpeedRunner.
+    usage: /speedrunner
+  TheHunted:
+    description: Use this to see who the SpeedRunner is.
+    usage: /thehunted
