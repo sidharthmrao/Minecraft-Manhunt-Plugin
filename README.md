@@ -9,7 +9,7 @@ Commands:
 Use to become the speedrunner.
 
 /hunter
-Use to become the hunter. You will receive a compass that will retract the speedrunner every time you right-click with it in your hand.
+Use to become a hunter. You will receive a compass that will retract the speedrunner every time you right-click with it in your hand.
 
 /thehunted
 Displays the name of the speedrunner
